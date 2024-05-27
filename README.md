@@ -4,7 +4,7 @@
 
 # Hi, I'm Curtis (he/him) 👋
 
-## :left_speech_bubble: Front-End Web Developer specializing in Javascript HTML5 CSS3
+## :left_speech_bubble: Front-End Web Developer specializing in Javascript HTML5 CSS3 + React
 
 ### :left_speech_bubble: I have a passion for Tech, keeping up to date with the most modern software practises, with a background in Customer Relations
 
@@ -20,6 +20,8 @@
 - JSON
 - React 
 - Git
+- PHP
+- MySQL
 
 
 
