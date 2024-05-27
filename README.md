@@ -16,10 +16,6 @@
 
 ### :memo: :desktop_computer: Currently learning:
 
-- Advanced Javascript
-- JSON
-- React 
-- Git
 - PHP
 - MySQL
 
