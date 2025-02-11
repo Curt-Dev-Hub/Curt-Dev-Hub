@@ -2,9 +2,9 @@
  <img alt="Picure of Typing" width="100%" height="350px" src="https://images.unsplash.com/photo-1604818640599-71bda0165d53?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGxlZHxlbnwwfHwwfHw%3D&w=1000&q=80">
 </picture>
 
-# Hi, I'm Curtis (he/him) 👋
+# Hi, I'm Curtis! 👋
 
-## :left_speech_bubble: Front-End Web Developer specializing in Javascript HTML5 CSS3 + React
+## :left_speech_bubble: **Full-Stack Web Developer** specializing in **Javascript**, **HTML5**, **CSS3**, **React**, **PHP**, **MySQL**
 
 ---
 
@@ -17,22 +17,37 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
+### 🚀 **What I'm Up To**
+- 📚 **Currently Learning:**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+  (Because why stick to just one world when you can conquer both the front end and the terminal? 🖥️✨)
+---  
 
-
-### :left_speech_bubble: I have a passion for Tech, keeping up to date with the most modern software practises, with a background in Customer Relations
+### :left_speech_bubble: I have a passion for Tech, keeping up to date with the most modern software practices, with a background in Customer Relations
 
 ### :two_hearts: I enjoy web development because of the satisfaction received from overcoming challenges
 
-### :handshake: I am open to collaborate on open source projects which can help me to grow as a developer
+### :handshake: **Open to collaborating** on open-source projects that challenge me and help me to grow.
 
-### :zap: "Many limits in life are self imposed"
+### 💬 **Favorite Quote**
+> "Many limits in life are self-imposed. Break those walls down!"
+> *I live by this every day, both in code and in life.*  
 
-### :memo: :desktop_computer: Currently learning:
+---
+⭐ **Fun Feature:** Refresh this page to see a random tech fact!  
+*(Hint: It’s powered by JavaScript!)*  
 
-- PHP
-- MySQL
+```javascript
+const techFacts = [
+  "The first computer bug was an actual bug—a moth stuck in a relay!",
+  "JavaScript was created in just 10 days!",
+  "The first website is still online: http://info.cern.ch",
+  "Python was named after Monty Python, not the snake!",
+];
 
-
+const randomFact = techFacts[Math.floor(Math.random() * techFacts.length)];
+console.log(randomFact);
 
 
 <!--
